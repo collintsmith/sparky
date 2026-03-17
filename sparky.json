@@ -3,7 +3,7 @@
   "wake_word": "sparky",
   "author": "Collin",
   "website": "",
-  "model": "https://raw.githubusercontent.com/collintsmith/sparky/9af7148ddce280683b9c252653fb0fc0bcd70210/sparky.tflite",
+  "model": "https://github.com/collintsmith/sparky/blob/7f808a817d7001c9a3dcb67033d0fb58a875ced0/sparky.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
